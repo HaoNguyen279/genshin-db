@@ -1,6 +1,27 @@
 {
 	"id": 10000115,
 	"name": "Dahlia",
-	"friendLines": [],
+	"friendLines": [
+        {
+			"voicelineId": 115026,
+			"title": "Về Vision...",
+			"voicelineType": "3001",
+			"description": "Tôi vẫn luôn tin rằng tôi sẽ có được Vision nguyên tố Phong, nhưng kết quả lại thú vị như vậy... Tôi đoán ngài Barbatos không coi tôi như một linh hồn lạc lối cần được liên tục dẫn lối đâu nhỉ?",
+			"hasUnlockConditions": true
+		},
+		{
+			"voicelineId": 115027,
+			"title": "Có gì muốn chia sẻ không...",
+			"voicelineType": "3002",
+			"description": "Có phải {F#cô}{M#cậu} đã từng nghĩ đến việc để mục sư Barbara trở thành \"thần tượng\" sẽ là một chiến lược tuyên truyền cực kỳ tinh tế không? Có lẽ bản thân Barbara cũng không hay biết, và đây cũng không phải ý định ban đầu của quý cô Alice, nhưng kết quả đã khiến cả Thành Mondstadt vui mừng đón nhận. Mọi người yêu quý Barbara, và ngày nào cũng có lý do để đến Giáo Đường.",
+			"hasUnlockConditions": true
+		},
+		{
+			"voicelineId": 115028,
+			"title": "Những kiến thức thú vị...",
+			"voicelineType": "3003",
+			"description": "Nghe nói rằng sau khi con dân của Phong Thần qua đời đều sẽ hóa thành bồ công anh, loài hoa chẳng bao giờ chịu yên phận trên mảnh đất mình mọc, chỉ chờ gió lên là ào ào lao lên bầu trời. Dù không thể đi xa thì chúng cũng nguyện được ủ thành thứ rượu thơm nồng nhất, dùng men say mang đến những thay đổi táo bạo cho kẻ nhàm chán. Ôi, cầu xin Phong Thần phù hộ để khi tôi chết đi sẽ được hóa thành một đóa bồ công anh."
+		}
+    ],
 	"actionLines": []
 }

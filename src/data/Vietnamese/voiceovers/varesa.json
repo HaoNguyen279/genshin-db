@@ -1,6 +1,27 @@
 {
 	"id": 10000111,
 	"name": "Varesa",
-	"friendLines": [],
+	"friendLines": [
+                        {
+			"voicelineId": 111026,
+			"title": "Về Vision...",
+			"voicelineType": "3001",
+			"description": "Theo như trong cuộn dệt thì vào thời khắc vô cùng quan trọng, Vision sẽ mang theo ánh sáng tựa như được vận mệnh an bài từ từ xuất hiện trong tay của những con người đặc biệt. Nhưng tôi hoàn toàn không nhớ rõ những chi tiết khi nhận được Vision... Hình như là có một hôm tôi đã mơ thấy một cơn ác mộng cực kỳ đáng sợ... Trong mơ, tôi liên tục chiến đấu với ma vật ở cổng chính của bộ tộc, suýt chút nữa là chết rồi. Khi tỉnh dậy thì Vision đã được đặt trên trán tôi... Chẳng lẽ tôi đã được một vị anh hùng nào đó chúc phúc trong giấc mơ sao?",
+			"hasUnlockConditions": true
+		},
+		{
+			"voicelineId": 111027,
+			"title": "Có gì muốn chia sẻ không...",
+			"voicelineType": "3002",
+			"description": "Tôi đã đến Con Của Tiếng Vang vài lần, học hỏi chút tay nghề của thợ thủ công ở đó để làm ra chiếc mặt nạ của mình! Tôi đã dựa trên trực giác rồi tham khảo theo mẫu mặt nạ mà Fietena đã sử dụng khi tham gia Trận Chiến Người Gác Đêm lần thứ hai. Lúc đó cô ấy vẫn chưa trở thành \"Tảng Đá Quả Đảm\" đâu, nhưng cô ấy đã vượt qua nỗi sợ và chiến thắng tất cả kẻ địch! Tôi tin chiếc mặt nạ này sẽ đem lại cho tôi dũng khí vô tận, và chuyện sau đó đã chứng minh rằng trực giác của tôi quả thực không sai!",
+			"hasUnlockConditions": true
+		},
+		{
+			"voicelineId": 111028,
+			"title": "Những kiến thức thú vị...",
+			"voicelineType": "3003",
+			"description": "Có người nói, thành viên của Hiệp Hội Nhà Mạo Hiểm có thể đi lại khắp Teyvat, vậy chẳng phải... không cần đắn đo về thời gian trái cây bị hỏng, không cần gấp rút buôn bán, cũng không bị giới hạn ở một khu vực cụ thể, và có thể đi đến bất cứ quốc gia nào để thưởng thức món ngon sao? Hmm... Nhà tôi có vườn trái cây cần chăm sóc, không thể đi xa lâu được, không biết Hiệp Hội Nhà Mạo Hiểm có nhận thành viên bán thời gian không..."
+		}
+    ],
 	"actionLines": []
 }

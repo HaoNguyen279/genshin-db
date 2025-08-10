@@ -1,6 +1,27 @@
 {
 	"id": 10000113,
 	"name": "Ifa",
-	"friendLines": [],
+	"friendLines": [
+        {
+			"voicelineId": 113026,
+			"title": "Về Vision...",
+			"voicelineType": "3001",
+			"description": "Thứ này cũng hữu dụng đấy chứ. Có lúc Saurian bay mệt rồi thì tôi sẽ nhờ gió giúp chúng bay lên một lúc. Nhẹ nhàng thôi, đừng để bị phát hiện.",
+			"hasUnlockConditions": true
+		},
+		{
+			"voicelineId": 113027,
+			"title": "Có gì muốn chia sẻ không...",
+			"voicelineType": "3002",
+			"description": "Chiêu dùng thức ăn để \"dỗ dành\" động vật nhỏ đúng là rất hiệu quả, nhưng dùng nhiều rồi chúng sẽ được voi đòi tiên, thậm chí thành thói quen xấu chỉ biết hưởng thụ. Cho nên những lúc có thể nói lý lẽ thì tôi sẽ cố gắng giúp chúng hiểu được nguyên lý của sự vật. Chẳng hạn như rơi vào bẫy thì sẽ bị thương, ăn uống linh tinh thì dễ bị trúng độc. Tuy là sẽ tốn thêm chút công sức, nhưng tôi thấy đó là việc đáng làm. Huống hồ, đôi khi động vật còn thông minh hơn con người nữa.",
+			"hasUnlockConditions": true
+		},
+		{
+			"voicelineId": 113028,
+			"title": "Những kiến thức thú vị...",
+			"voicelineType": "3003",
+			"description": "Chỉ cần chịu quan sát thật kỹ càng thì sẽ phát hiện ra trên thế giới này có vô vàn thứ thú vị. Nếu thời gian cho phép, tôi có thể nhìn ngắm thế giới thiên nhiên cả ngày. Tiếc là công việc cứ luôn tự tìm đến tận cửa."
+		}
+    ],
 	"actionLines": []
 }

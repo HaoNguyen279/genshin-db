@@ -1,6 +1,28 @@
 {
 	"id": 10000116,
 	"name": "Ineffa",
-	"friendLines": [],
+	"friendLines": [
+        {
+			"voicelineId": 116026,
+			"title": "Về Vòng Mặt Trăng - Nơi Trở Về",
+			"voicelineType": "3001",
+			"description": "Nếu không có Vòng Mặt Trăng này, thì tôi sau khi bị nghiền nát lõi chắc sẽ không thể quay trở lại nữa... Nhưng cho dù là bây giờ, có tiến hành tính toán sau khi loại bỏ nhân tố Vòng Mặt Trăng, thì mô đun tư duy vẫn sẽ đưa ra quyết định giống nhau hết lần này đến lần khác. Cho dù không còn nơi nào để trở về, thì cũng phải bảo vệ chốn về của mọi người.",
+			"hasUnlockConditions": true
+		},
+		{
+			"voicelineId": 116027,
+			"title": "Có gì muốn chia sẻ không...",
+			"voicelineType": "3002",
+			"description": "Robot chỉ cần thiết lập mục tiêu thì sẽ thực hiện theo một cách chính xác, nhưng con người thì không phải như vậy... Tại sao có những người muốn kiểm soát cân nặng, nhưng lại ăn quá nhiều đồ ngọt vậy? Câu trả lời của Aino là đồ ngọt có thể giúp tâm trạng tốt hơn, còn có thể bổ sung năng lượng, có năng lượng rồi thì mới tập luyện được nhiều, tập luyện nhiều rồi thì mới có thể kiểm soát cân nặng được. Kết luận là... ăn nhiều đồ ngọt thì mới kiểm soát được cân nặng. Nhưng khi tôi bắt đầu tính toán kết quả calo tiêu thụ cho cô ấy, thì cô ấy đã lập tức chuyển chủ đề, thật là đáng tiếc.",
+			"hasUnlockConditions": true
+		},
+		{
+			"voicelineId": 116028,
+			"title": "Những kiến thức thú vị...",
+			"voicelineType": "3003",
+			"description": "Ở mỗi khu vực như Fontaine, Sumeru, Natlan đều lưu truyền nhiều truyền thuyết về sinh mệnh máy móc. Có người cho rằng chúng đã mang tình cảm và ý thức của sinh vật, có người thì cho rằng chúng chỉ đang mô phỏng hành vi của sinh vật mà thôi... Nhưng hai suy nghĩ này không hề mâu thuẫn với nhau... Chẳng phải nhiều loài sinh vật cũng bắt đầu từ việc mô phỏng, rồi mới dần xây dựng nên ý thức hoàn chỉnh sao?"
+		}
+    ],
 	"actionLines": []
 }
+

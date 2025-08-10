@@ -1,6 +1,55 @@
 {
 	"id": 10000114,
 	"name": "Skirk",
-	"friendLines": [],
+	"friendLines": [
+        {
+			"voicelineId": 114026,
+			"title": "Về Vision...",
+			"voicelineType": "3001",
+			"description": "Sư phụ đã dạy cho tôi cách điều khiển sức mạnh Vực Sâu, tôi cũng đã tìm được cách mô phỏng nó thành sức mạnh nguyên tố thông qua tài liệu nghiên cứu trong di tích Khaenri'ah. Nếu chỉ xét về kết quả thì {F#cô}{M#cậu} và tôi đều có thể thoát ly khỏi Vision để sử dụng sức mạnh nguyên tố, điều này cũng có nghĩa là nguyện vọng của chúng ta không cần thần linh phán xét.",
+			"hasUnlockConditions": true,
+			"unlockConditions": [
+				{
+					"unlockText": "Mở sau khi cấp Yêu Thích đạt cấp 4",
+					"conditionType": "FETTER_COND_FETTER_LEVEL",
+					"paramList": [
+						4
+					]
+				}
+
+			]
+		},
+		{
+			"voicelineId": 114027,
+			"title": "Có gì muốn chia sẻ không...",
+			"voicelineType": "3002",
+			"description": "Sư phụ nói rằng, ngày xưa ông ấy học Kiếm Thuật Hắc Xà chính thống của Khaenri'ah, nhưng đến khi dạy tôi thì kiếm thuật của ông ấy đã hội tụ thêm nhiều thứ mà Kiếm Thuật Hắc Xà không có. Võ nghệ chính là vậy, không ngừng học hỏi lẫn nhau, không ngừng cải thiện bản thân thì mới có thể tiến bộ về lâu về dài.",
+			"hasUnlockConditions": true,
+			"unlockConditions": [
+				{
+					"unlockText": "Mở sau khi cấp Yêu Thích đạt cấp 4",
+					"conditionType": "FETTER_COND_FETTER_LEVEL",
+					"paramList": [
+						4
+					]
+				} 
+			]
+		},
+		{
+			"voicelineId": 114028,
+			"title": "Những kiến thức thú vị...",
+			"voicelineType": "3003",
+			"description": "Khi du ngoạn biển sao, tôi đã từng thấy một loài động vật có nhận thức giác quan đảo ngược. Chúng dùng băng giá để sưởi ấm, lửa rực để giải nhiệt. Chúng sẽ đổ mồ hôi như tắm trong hang động tối tăm và run rẩy dưới ánh mặt trời chói lóa. Chúng không hòa hợp với những sinh vật khác xung quanh, nhưng vẫn có thể sống tốt. Sinh mệnh quả là vừa phức tạp lại vừa đơn giản.",
+            "unlockConditions": [
+				{
+					"unlockText": "Hoàn thành cốt truyện \"Lời Thì Thầm Giữa Sao Và Trời Đêm\"\n",
+					"conditionType": "FETTER_COND_FETTER_LEVEL",
+					"paramList": [
+						4
+					]
+				} 
+			]
+		}
+    ],
 	"actionLines": []
 }
